@@ -1,5 +1,5 @@
 # Front-End Development Workshop - Offline-supplement-Session 3
-In this session, we implemented the homepage and product detail pages of an e-commerce website using HTML and CSS.
+In this session, we implemented the product detail pages of an e-commerce website using HTML and CSS.
 
 ## Used Features
 * Semantic HTML tags
